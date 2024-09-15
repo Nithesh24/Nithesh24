@@ -1,7 +1,8 @@
 # 💫 About Me:
 💼 SE Intern at LG Soft<br>✨ I love turning my ideas into reality by coding. 💻<br>💡 Proficient in Data Structures & Algorithms<br>I'm skilled in Data Structures & Algorithms 📊 and enjoy tackling DSA and competitive programming challenges 🧠🧩 to continuously improve my skills.
 
-![](https://leetcard.jacoblin.cool/nithesh487?ext=contest)
+<!--![](https://leetcard.jacoblin.cool/nithesh487?ext=contest)-->
+![](https://leetcard.jacoblin.cool/nithesh487?ext=heatmap)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitheshkumar24) 
